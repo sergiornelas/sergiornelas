@@ -31,7 +31,4 @@
   <img align="left" alt="Sergio LinkedIN" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/sergiornelas/github-profile-views-counter
-![](https://komarev.com/ghpvc/?username=sergiornelas)
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+![](https://komarev.com/ghpvc/?username=sergiornelas&style=for-the-badge&color=#cc231c)
