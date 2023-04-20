@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiornelas)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.instagram.com/serch.ornelas/">
+  <img align="left" alt="Sergio Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/sergio-ornelas-26b361190/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=sergiornelas&show_icons=true&theme=gruvbox&hide=stars)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiornelas&theme=gruvbox&column=7" alt="sergiornelas" /></a> </p>
