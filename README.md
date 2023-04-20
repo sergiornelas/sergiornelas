@@ -46,9 +46,11 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg" title="Neovim" alt="Neovim" width="130" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/react.svg" title="Rust" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/react-original.svg" title="React" alt="Rust" width="40" height="40"/>&nbsp;
+
+
 </div>
 
 ### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sergiornelas&theme=gruvbox&border_radius=6&background=242939)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiornelas&show_icons=true&theme=gruvbox&border_radius=6&bg_color=242939&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
