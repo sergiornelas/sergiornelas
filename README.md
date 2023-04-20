@@ -1,7 +1,5 @@
 ### Hi there
-<p>I'm Sergio Ornelas, graduated in Computer Science. Passionate self-taught front end web developer and a software engineer from Mexico. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
-
-
+<p>I'm Sergio Ornelas, graduated in Computer Science. Passionate self-taught front end web developer and a software engineer from Mexico. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Hardcore neovim user.</p>
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=sergiornelas&show_icons=true&theme=gruvbox&hide=stars)
 
