@@ -33,4 +33,5 @@
 
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/sergiornelas/github-profile-views-counter
+![](https://komarev.com/ghpvc/?username=sergiornelas)
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
