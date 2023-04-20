@@ -6,7 +6,7 @@
 </a>
 <a href="https://www.linkedin.com/in/sergio-ornelas-26b361190/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=sergiornelas&show_icons=true&theme=gruvbox&hide=stars)
 
