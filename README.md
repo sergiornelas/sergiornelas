@@ -24,7 +24,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg" title="Neovim" alt="Neovim" width="130" height="40"/>&nbsp;
 </div>
 
-### Social
+### 🧑‍🤝‍🧑 Social:
 <a href="https://www.instagram.com/serch.ornelas/">
   <img align="left" alt="Sergio Instagram" width="33px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
