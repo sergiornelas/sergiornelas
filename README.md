@@ -31,4 +31,4 @@
   <img align="left" alt="Sergio LinkedIN" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=sergiornelas&style=for-the-badge&color=#cc231c)
+![](https://komarev.com/ghpvc/?username=sergiornelas&style=for-the-badge&color=cc231c)
