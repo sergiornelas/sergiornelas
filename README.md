@@ -1,19 +1,5 @@
 ### Hi there 👋
-
-<!--
-**sergiornelas/sergiornelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Hi, I'm Sergio Ornelas, a passionate self-taught front end web developer and a software engineer from Mexico. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
 <a href="https://www.instagram.com/serch.ornelas/">
   <img align="left" alt="Sergio Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -21,7 +7,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sergio-ornelas-26b361190/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br/>
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=sergiornelas&show_icons=true&theme=gruvbox&hide=stars)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiornelas&theme=gruvbox&column=7" alt="sergiornelas" /></a> </p>
