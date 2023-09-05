@@ -31,5 +31,5 @@
   <img align="left" alt="Sergio Instagram" width="33px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/sergio-ornelas-26b361190/">
-  <img align="left" alt="Sergio LinkedIN" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sergio LinkedIN" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
