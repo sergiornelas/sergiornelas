@@ -4,7 +4,7 @@
 
 ![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergiornelas&show_icons=true&theme=gruvbox&hide=stars)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sergiornelas&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](http://localhost:8080/?username=sergiornelas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🛠️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 <div>
