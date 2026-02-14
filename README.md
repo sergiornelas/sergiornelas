@@ -6,6 +6,8 @@
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sergiornelas)](https://github.com/stats-organization/github-stats-extended)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sergiornelas&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=sergiornelas&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox)
+
 ### 🛠️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
