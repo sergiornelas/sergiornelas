@@ -4,7 +4,7 @@
 
 ![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergiornelas&show_icons=true&theme=gruvbox&hide=stars)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiornelas&theme=gruvbox&column=7&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" alt="sergiornelas" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sergiornelas&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🛠️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 <div>
