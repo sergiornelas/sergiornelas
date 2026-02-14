@@ -2,10 +2,6 @@
 ### 𝙸'𝚖 𝚂𝚎𝚛𝚐𝚒𝚘 𝙾𝚛𝚗𝚎𝚕𝚊𝚜, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎. 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚜𝚎𝚕𝚏-𝚝𝚊𝚞𝚐𝚑𝚝 𝚏𝚛𝚘𝚗𝚝 𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 𝙼𝚎𝚡𝚒𝚌𝚘. 𝙼𝚢 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚏𝚘𝚛 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚕𝚒𝚎𝚜 𝚠𝚒𝚝𝚑 𝚍𝚛𝚎𝚊𝚖𝚒𝚗𝚐 𝚞𝚙 𝚒𝚍𝚎𝚊𝚜 𝚊𝚗𝚍 𝚖𝚊𝚔𝚒𝚗𝚐 𝚝𝚑𝚎𝚖 𝚌𝚘𝚖𝚎 𝚝𝚛𝚞𝚎 𝚠𝚒𝚝𝚑 𝚎𝚕𝚎𝚐𝚊𝚗𝚝 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜.
 ### 𝙸 𝚝𝚊𝚔𝚎 𝚐𝚛𝚎𝚊𝚝 𝚌𝚊𝚛𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎, 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎, 𝚊𝚗𝚍 𝚌𝚘𝚍𝚎 𝚚𝚞𝚊𝚕𝚒𝚝𝚢 𝚘𝚏 𝚝𝚑𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 𝙸 𝚋𝚞𝚒𝚕𝚍. 𝙷𝚊𝚛𝚍𝚌𝚘𝚛𝚎 𝚗𝚎𝚘𝚟𝚒𝚖 𝚞𝚜𝚎𝚛.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiornelas)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sergiornelas)](https://github.com/stats-organization/github-stats-extended)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sergiornelas&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=sergiornelas&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox)
 
 ### 🛠️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
